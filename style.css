@@ -2,7 +2,7 @@ iframe {
     display: inline-block;       /* iframes are inline by default */
     background: #000;
     border: none;         /* Reset default border */
-    height: 100vh;        /* Viewport-relative units */
+    height: 95vh;        /* Viewport-relative units */
     width: 100vw;
     cursor: url("/hole_1f573.png"), pointer;
 }
